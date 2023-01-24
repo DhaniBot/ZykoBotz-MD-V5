@@ -1,17 +1,17 @@
-// S C R I P T  O R I  B Y  Aldi Lesmana🔭
-// Ditulis Ulang Oleh ZYKO-MD
+// S C R I P T  O R I  B Y  DanzMd🔭
+// Ditulis Ulang Oleh DANZ-MD
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
 // • WH MODS DEV
-// • ZYKO-MD
+// • DANZ-MD
 // • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
 
-// • FIX-BOT-NEXBOTZ-V5 BUY HARGA 25K 
-// • CHAT GW wa.me/6282124690625
+// • FIX-BOT-DanzBot-V5 BUY HARGA 25K 
+// • CHAT GW wa.me/6289523573658
 
 
 
@@ -41,56 +41,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
+global.sig = '_'
+global.tautanwa = '_'
+global.sgh = 'https://github.com/DhaniBot'
 global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
-global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.linkyt = '_'
+global.syt = '_'
+global.sfb = '_' // facebook
+global.snh = '_'
+global.media = '_'
+global.wame = '_'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6282124690625', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['13345280640', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6289523573658', 'DANZ-MD', true],
+['089523573658', 'DANZ-MD', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '18504178231' //pasang no bot lo 
-global.nomorown = '6282124690625' //pasang no own lo
-global.nomorown1 = '6282124690625'
-global.nomorown2 = '6282124690625'
-global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nomorbot = '089523573658' //pasang no bot lo 
+global.nomorown = '6289523573658' //pasang no own lo
+global.nomorown1 = '6289523573658'
+global.nomorown2 = '6289523573658'
+global.nomorwa = '089523573658'
+global.nameown = 'DANZ-MD'
+global.gcname = 'DANZ-MD Official'
+global.author = 'Created By DANZ-MD'
+global.namabot = 'DANZBOT-MD'
+global.namebot = 'DANZBOT-MD'
+global.packname2 = 'DANZ-MD'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'DANZ-MD'
+global.nameown2 = 'DANZ-MD'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 DANZ-MD'
+global.wm2 = 'DANZ-MD '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `DANZ-MD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'DANZ-MD'
+global.stickauth = `© Danz-MD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -110,14 +110,14 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '089523573658' //pasang no lo sinih buat donasi 
+global.povo = '089523573658' 
+global.pgopay = '089523573658'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
+global.ppulsa = '089523573658'
+global.ppulsa2 = '089523573658'
 global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.donasikabul = 'Jasa Sewa DanzBotz-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
